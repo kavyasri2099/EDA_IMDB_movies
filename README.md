@@ -5,13 +5,13 @@ This project involves web scraping IMDb data to perform exploratory data analysi
 
 Dataset:  
 The dataset was scraped from IMDb and contains information about movies, including:  
--Title  
--Genre  
--Director  
--Cast  
--Rating  
--Number of Reviews  
--Release Year  
+- Title  
+- Genre  
+- Director  
+- Cast  
+- Rating  
+- Number of Reviews  
+- Release Year  
 
 Requirements:  
 The following Python libraries are required to run the code:  
