@@ -15,13 +15,13 @@ The dataset was scraped from IMDb and contains information about movies, includi
 
 Requirements:  
 The following Python libraries are required to run the code:  
-numpy  
-pandas  
-matplotlib  
-seaborn  
-requests  
-BeautifulSoup  
-wordcloud  
+- numpy  
+- pandas  
+- matplotlib  
+- seaborn  
+- requests  
+- BeautifulSoup  
+- wordcloud  
 
 Web Scraping: Data was scraped from IMDb using BeautifulSoup.  
 Data Storage: The scraped data was stored in a CSV file for further analysis.  
